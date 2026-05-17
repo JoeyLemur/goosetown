@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/block/goosetown/actions/workflows/test.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/block/goosetown/test.yml?branch=main&style=flat-square&label=tests&labelColor=111111" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/block/goosetown?style=flat-square&label=license&labelColor=111111" /></a>
+  <a href="https://github.com/aaif-goose/goosetown/actions/workflows/test.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/aaif-goose/goosetown/test.yml?branch=main&style=flat-square&label=tests&labelColor=111111" /></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/aaif-goose/goosetown?style=flat-square&label=license&labelColor=111111" /></a>
   <a href="https://discord.gg/goose-oss"><img alt="Discord" src="https://img.shields.io/discord/1287729918100246654?style=flat-square&logo=discord&logoColor=white&label=discord&labelColor=111111&color=5865F2" /></a>
 </p>
 
@@ -29,7 +29,7 @@ You'll need [goose](https://github.com/block/goose/releases) v1.25.0+ on your `P
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/block/goosetown.git
+git clone https://github.com/aaif-goose/goosetown.git
 cd goosetown
 
 # 2. Launch goose through the wrapper

@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Fixes for the issues new users hit most. If your problem isn't here, [open an issue](https://github.com/block/goosetown/issues) or ask on [Discord](https://discord.gg/goose-oss).
+Fixes for the issues new users hit most. If your problem isn't here, [open an issue](https://github.com/aaif-goose/goosetown/issues) or ask on [Discord](https://discord.gg/goose-oss).
 
 ## Install / Launch
 
@@ -190,6 +190,6 @@ See [AGENTS.md](../AGENTS.md#knowledge-files) for the full schema.
 
 ## Still Stuck?
 
-1. Check the [GitHub issues](https://github.com/block/goosetown/issues) for similar reports.
+1. Check the [GitHub issues](https://github.com/aaif-goose/goosetown/issues) for similar reports.
 2. Run `./gtwall --status` and `./dashboard --status` and include their output when filing a bug.
 3. Ask in `#goose-oss` on [Discord](https://discord.gg/goose-oss).

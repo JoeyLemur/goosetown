@@ -19,7 +19,7 @@ You do **not** need Python, Node.js, or `uv` unless you want to run the dashboar
 ## Install
 
 ```bash
-git clone https://github.com/block/goosetown.git
+git clone https://github.com/aaif-goose/goosetown.git
 cd goosetown
 ```
 
